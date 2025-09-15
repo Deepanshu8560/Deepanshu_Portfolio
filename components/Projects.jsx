@@ -40,7 +40,7 @@ export default function Projects() {
     {
       title: 'House-Price-predictor-System',
       description: 'House Price Predictor System leveraging ZenML pipelines and MLflow for scalable, reliable house price forecasting using past real estate data.',
-      image: './project-4.png',
+      image: './project4.png',
       technologies: ['python', 'MLOps', 'Data Analysis', 'Machine Learning' ],
       liveUrl: '#',
       githubUrl: 'https://github.com/Deepanshu8560/House-Price-predictor-System',
