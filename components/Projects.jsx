@@ -38,12 +38,12 @@ export default function Projects() {
       featured: false,
     },
     {
-      title: 'Equity Research Analysis using LLM',
-      description: 'Mobile-first social platform with real-time messaging, content sharing, and community features.',
+      title: 'House-Price-predictor-System',
+      description: 'House Price Predictor System leveraging ZenML pipelines and MLflow for scalable, reliable house price forecasting using past real estate data.',
       image: './project-4.png',
-      technologies: ['React Native', 'Firebase', 'Redux', 'Node.js'],
+      technologies: ['python', 'MLOps', 'Data Analysis', 'Machine Learning' ],
       liveUrl: '#',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/Deepanshu8560/House-Price-predictor-System',
       featured: false,
     },
   ];
