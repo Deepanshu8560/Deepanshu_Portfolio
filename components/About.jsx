@@ -12,7 +12,7 @@ export default function About() {
   const handleDownloadResume = () => {
     const link = document.createElement('a');
     link.href = '/Deepanshu_gupta_resume.pdf';
-    link.download = 'Deepanshu_Gupta_Resume.pdf';
+    link.download = 'Deepanshu_gupta_resume.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
