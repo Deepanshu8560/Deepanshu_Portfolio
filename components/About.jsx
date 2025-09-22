@@ -11,7 +11,7 @@ export default function About() {
 
   const handleDownloadResume = () => {
     const link = document.createElement('a');
-    link.href = '/resume.pdf';
+    link.href = '/Deepanshu_gupta_resume.pdf';
     link.download = 'Deepanshu_Gupta_Resume.pdf';
     document.body.appendChild(link);
     link.click();
