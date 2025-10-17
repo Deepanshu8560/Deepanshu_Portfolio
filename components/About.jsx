@@ -39,7 +39,7 @@ export default function About() {
                 <div className="w-85 h-85 pb-30 mb-16 rounded-full overflow-hidden border-4 border-gradient-to-r from-purple-500 to-pink-500 p-1 bg-gradient-to-r from-purple-500 to-pink-500">
                   <div className="w-full h-full rounded-full overflow-hidden bg-black">
                     <img
-                      src="./my-image.jpg"
+                      src="./my-image.png"
                       alt="John Developer"
                       className="w-full h-full object-cover"
                     />
